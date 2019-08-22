@@ -1,0 +1,3 @@
+[submodule "aries-cloudagent-python"]
+    path = aries-cloud-agent-python
+    url = https://github.com/zzx02/aries-cloudagent-python.git
